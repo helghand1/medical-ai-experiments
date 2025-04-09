@@ -7,3 +7,5 @@ This project will serve as an early-stage prototype environment for exploring th
 - `/data/` – Placeholder for datasets (excluded from version control)
 - `/models/` – Trained models and model configurations
 - `/notebooks/` – Exploratory analysis and model development notes
+
+> Current branch: dev – this branch will be used for testing and development.
